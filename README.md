@@ -6,3 +6,5 @@ Hi
 First git project ever.
 
 Trying it out.
+
+BRANCH 2 THEBOI SHOWING HOW ITS DONE
